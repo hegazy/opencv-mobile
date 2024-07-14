@@ -88,3 +88,7 @@
 -DBUILD_opencv_objdetect=OFF
 -DBUILD_opencv_stitching=OFF
 -DBUILD_opencv_ml=OFF
+-DBUILD_opencv_highgui=OFF
+-DBUILD_opencv_features2d=OFF
+-DBUILD_opencv_photo=OFF
+-DBUILD_opencv_video=OFF
